@@ -11,4 +11,4 @@ This is the task assigned by Daksh web team for recruitment. Please use laptop t
 
 5.The instagram and twitter logo at the bottom takes one to daksh offical social handles.
 
-6.Time taken to build this 2:30hrs.
+6.Time taken to build this is 2:30hrs.
