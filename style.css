@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.img {
+  margin-left: 235px;
+
+}
+
+.para {
+  margin-top: 80px;
+  margin-left: 100px;
+}
+
+.para1 {
+  margin-left: 100px;
+}
+
+.pic {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.insta {
+  margin: 30px;
+}
+
+.form {
+  margin: 100px;
+}
+
+.firstname {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.college {
+  margin-top: 20px;
+  margin-right: 32px;
+}
+
+.submit {
+  margin-top: 20px;
+  margin-left: -7px;
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: rgb(66, 18, 169);
+  border-color: beige;
+  color: white;
+}
+
+.submit:hover {
+  background-color: rgb(39, 98, 14);
+}
+
+.final {
+  margin-left: 100px;
+}
+
+nav {
+  display: flex;
+  height: 80px;
+  width: 100%;
+  background: rgb(66, 18, 169);
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 50px 0 100px;
+  flex-wrap: wrap;
+}
+
+nav .logo {
+  color: white;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 5px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 8px 15px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+nav ul li a.active,
+nav ul li a:hover {
+  color: black;
+  background: white;
+}
+
+nav .menu-btn i {
+  color: #fff;
+  font-size: 22px;
+  cursor: pointer;
+  display: none;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  nav {
+    padding: 0 40px 0 50px;
+  }
+}
+
+@media (max-width: 920px) {
+  nav .menu-btn i {
+    display: block;
+  }
+
+
+
+
+}
