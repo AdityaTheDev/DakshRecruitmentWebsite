@@ -16,4 +16,7 @@ This is the task assigned by Daksh web team for recruitment. Please use laptop t
 
 # From This to
 
-![original](daksh.png)
+![original](daksh.PNG)
+
+# This
+![output](dakshout.PNG)
