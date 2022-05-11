@@ -24,5 +24,9 @@ This is the task assigned by Daksh web team for recruitment. Please use laptop t
 # This
 ![output](dakshout.PNG)
 ![output1](daksh1.PNG)
+
+# After clicking Submit
+
+![output](dakshout.PNG)
 ![submit](dakshsubmit.PNG)
 
