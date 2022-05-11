@@ -13,6 +13,8 @@ This is the task assigned by Daksh web team for recruitment. Please use laptop t
 
 6.Time taken to build this is 2:30hrs.
 
+7.Click on submit once after entering the name and once without entering the name.
+
 
 # From This to
 
